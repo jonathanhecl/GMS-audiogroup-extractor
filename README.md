@@ -1,6 +1,9 @@
-# GMS-audiogroup-extractor
-GameMaker Studio AudioGroup Extractor
+# GameMaker Studio AudioGroup Extractor (gmsae.exe)
 
 You only need run it in the folder with the file "audiogroup1.dat".
 
-[Relases] https://github.com/jonathanhecl/GMS-audiogroup-extractor/releases/
+[Download Release](https://github.com/jonathanhecl/GMS-audiogroup-extractor/releases/)
+
+### Screenshot
+
+![Example](https://i.imgur.com/ptiwBYN.png)
